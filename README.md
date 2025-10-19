@@ -1,16 +1,13 @@
-## Hi there 👋
+# Samuel Huang — AI/ML Engineer | LLM Systems & RAG
 
-<!--
-**FlosMume/FlosMume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build applied LLM systems end-to-end: ingestion → retrieval (Chroma/FAISS) → orchestration → UX (Streamlit/FastAPI). Recent focus: healthcare decision support, evaluation, and safe deployment.
 
-Here are some ideas to get you started:
+## Featured Projects
+- **CareMind-Streamlit** — Clinical decision support demo (Streamlit UI over a RAG pipeline). *Python, Streamlit, Chroma, SQLite*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m good at
+RAG pipelines • Prompt/Eval frameworks • QLoRA/Fine-tuning • LangChain/LangGraph • Vector DBs • Python packaging • CI/CD • Cloud deployment
+
+## Quick Links
+- 📫 Email: ch9398@gmail.com
+- 🔗 LinkedIn:https://www.linkedin.com/in/samuel-huang-492b8771/
