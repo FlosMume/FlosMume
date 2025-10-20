@@ -1,4 +1,4 @@
-# Samuel Huang — AI/ML Engineer | LLM Systems & RAG
+# Samuel Huang — AI/ML Engineer | LLM Systems, RAG, and Fine Tuning
 
 I build applied LLM systems end-to-end: ingestion → retrieval (Chroma/FAISS) → orchestration → UX (Streamlit/FastAPI). Recent focus: healthcare decision support, evaluation, and safe deployment.
 
