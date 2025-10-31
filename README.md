@@ -9,5 +9,5 @@ I build applied LLM systems end-to-end: ingestion → retrieval (Chroma/FAISS) �
 RAG pipelines • Prompt/Eval frameworks • QLoRA/Fine-tuning • LangChain/LangGraph • Vector DBs • Python packaging • CI/CD • Cloud deployment
 
 ## Quick Links
-- 📫 Email: ch9398@gmail.com
-- 🔗 LinkedIn:https://www.linkedin.com/in/samuel-huang-492b8771/
+- 📫 Email: tbd@gmail.com
+- 🔗 LinkedIn:https://www.linkedin.com/in/samuel-huang-###b####/
