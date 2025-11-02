@@ -6,6 +6,6 @@ I build applied LLM systems end-to-end: ingestion → retrieval (Chroma/FAISS) �
 - **CareMind-Streamlit** — Clinical decision support demo (Streamlit UI over a RAG pipeline). *Python, Streamlit, Chroma, SQLite*  
 
 ## What I’m good at
-RAG pipelines • Prompt/Eval frameworks • QLoRA/Fine-tuning • LangChain/LangGraph • Vector DBs • Python packaging • CI/CD • Cloud deployment
+RAG pipelines • Prompt/Eval frameworks • qLoRA/Fine-tuning • LangChain/LangGraph • Vector DBs • Python packaging • CI/CD • Cloud deployment
 
 
