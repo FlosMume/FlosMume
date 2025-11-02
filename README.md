@@ -8,6 +8,4 @@ I build applied LLM systems end-to-end: ingestion → retrieval (Chroma/FAISS) �
 ## What I’m good at
 RAG pipelines • Prompt/Eval frameworks • QLoRA/Fine-tuning • LangChain/LangGraph • Vector DBs • Python packaging • CI/CD • Cloud deployment
 
-## Quick Links
-- 📫 Email: tbd@gmail.com
-- 🔗 LinkedIn:https://www.linkedin.com/in/samuel-huang-###b####/
+
